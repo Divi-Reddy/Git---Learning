@@ -1,1 +1,3 @@
 git init => used to initialize the current folder to the repository
+
+git add --all =>(used to make all files into (tracked) the stage of staging, we use it when we done some modifications into the working directory)
