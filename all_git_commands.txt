@@ -11,3 +11,5 @@ now our repository is ready to push into the remote git
 git add origin copied_url_from _git_created_repository =>(makes an remote connection with the created repository)
 
 git push --set-upstream origin master => (This command puh our local git files into the remote git)
+
+Now all the filrss are added to the remote git successfully refresh the page
