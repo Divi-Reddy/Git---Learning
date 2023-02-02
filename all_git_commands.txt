@@ -1,3 +1,13 @@
+
 git init => used to initialize the current folder to the repository
 
 git add --all =>(used to make all files into (tracked) the stage of staging, we use it when we done some modifications into the working directory)
+
+git commit -m "Your commit name"   =>(Commit the repository in my local git)
+
+
+now our repository is ready to push into the remote git
+
+git add origin copied_url_from _git_created_repository =>(makes an remote connection with the created repository)
+
+git push --set-upstream origin master => (This command puh our local git files into the remote git)
